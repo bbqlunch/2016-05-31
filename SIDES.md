@@ -4,8 +4,8 @@
 
 ## Ideas
 
-[ ] Bread
-[ ] Coleslaw
-[ ] Potato salad
-[ ] Baked beans
-[ ] Watermelon
+- [ ] Bread
+- [ ] Coleslaw
+- [ ] Potato salad
+- [ ] Baked beans
+- [ ] Watermelon
